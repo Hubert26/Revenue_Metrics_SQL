@@ -16,4 +16,8 @@ The interactive Tableau dashboard is publicly available at:
 You can view my certificate for completing the GoIT Data Analyst course here:
 [View Certificate](https://1drv.ms/b/c/aa7aab61d1edb18a/EYqx7dFhq3oggKrDQAAAAAABJ7b0xmpFxt6lLUg1KCc3rA?e=Cf96AY)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Hubert26/Revenue_Metrics_SQL/blob/main/LICENSE.txt) file for details.
+
+
 
