@@ -5,6 +5,7 @@ This project is the capstone assignment for the Data Analyst course at GoIT. It 
 
 ## Repository Contents
 `Hubert_Sz_Revenue_Metrics.sql`: Contains all SQL queries used to connect to the database, clean data, and generate key metrics.
+
 `README.md`: This file, documenting the project.
 
 ## Tableau Dashboard
